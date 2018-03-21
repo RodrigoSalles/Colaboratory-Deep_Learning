@@ -10,7 +10,7 @@ Os códigos encontrados aqui deverão ser copiados e colados no
 notebook criado no ambiente colaboratory, de acordo com os 
 passos do tutorial.   Alguns comandos possuem detalhes específicos 
 do Colab,  e apresentarão problemas se rodados na sua máquina. 
-Qualquer sugestão ou dúvidas poderão ser encaminhadas para 
+Qualquer sugestão ou dúvida poderá ser encaminhada para 
 meu e-mail(engenharia.salles@gmail.com) ou postadas diretamente no blog BrData.
 
 Atentamente,
